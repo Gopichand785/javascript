@@ -1,0 +1,12 @@
+let a=[10,20,30,40]
+console.log(a)
+a.push(100)
+console.log(a)
+a.pop()
+console.log(a)
+a.shift()
+console.log(a)
+a.unshift(60)
+console.log(a)
+a.length(4)
+console.log(a)
