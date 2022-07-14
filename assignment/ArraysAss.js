@@ -99,9 +99,20 @@ let s=[4,5,6]
 let t=[...r,...s]
 console.log(t)
 
-//11 balance
+//17 balance
 
 //javascript use of indexof method
 let u=[1,2,3,4,5,6]
 console.log(u.indexOf(1))
+
+//how to find the index of item in array in javascript
+let w=[1,2,3,4,5,6]
+console.log(w.indexOf(1))
+let y=[1,2,3,4,5,6]
+console.log(y.indexOf(0))
+let z=[1,2,3,4,5,6]
+console.log(z.indexOf(4))
+
+//how to find the object from array of object in a javscript
+
 
