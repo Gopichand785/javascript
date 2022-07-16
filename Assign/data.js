@@ -17,10 +17,8 @@ let chill=()=>{
 let sad=()=>{
      sad_ref=document.getElementById("glr")
         sad_ref.style.backgroundColor="orange"
-}   
-let bab=()=>{
-    let bab_ref=document.getElementById("char")
- bab_ref.style.backgroundColor="gray" 
-bab.uppercase()
-
+}
+function change_Case() {
+    let data = document.getElementById('abc').value
+    document.getElementById('abc').value = data.toUpperCase()
 }
