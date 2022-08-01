@@ -15,10 +15,10 @@ console.log(a+d)//10thirty
 console.log(a+g)//10
 console.log(a+f)//nan
 
-console.log(typeof a)
-console.log(typeof b)
-console.log(typeof c)
-console.log(typeof d)
-console.log(typeof e)
-console.log(typeof g)
-console.log(typeof f)
+console.log(typeof a)//number
+console.log(typeof b)//number
+console.log(typeof c)//strimg
+console.log(typeof d)//string
+console.log(typeof e)//object
+console.log(typeof g)//boolean
+console.log(typeof f)//undefined

@@ -7,15 +7,15 @@ let emp = {                      //object
     salary: 45000,
     loc: 'New Delhi'
 }
-console.log(a)
-console.log(size)
-console.log(marks)
-console.log(emp)
+console.log(a)//10
+console.log(size)//[30,40,42,44,46]
+console.log(marks)//[35,36,37,38,39]
+console.log(emp)//{rahulgandhi,45000,newdelhi}
 
 
 
 
-console.log(typeof a)
-console.log(typeof size)
-console.log(typeof marks)
-console.log(typeof emp)
+console.log(typeof a)//number
+console.log(typeof size)//object
+console.log(typeof marks)//object
+console.log(typeof emp)//object

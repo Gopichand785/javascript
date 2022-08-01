@@ -5,15 +5,15 @@ var $ram=27
 var _seshu=29
 var  a=10
 
-console.log(tv)
-console.log(stv)
-console.log(emp)
-console.log($ram)
-console.log(_seshu)
-console.log(a)
+console.log(tv)//santhosh
+console.log(stv)//202
+console.log(emp)//undefined
+console.log($ram)//27
+console.log(_seshu)//29
+console.log(a)//10
 
-console.log(typeof tv)
-console.log(typeof stv)
-console.log(typeof emp)
-console.log(typeof $ram)
-console.log(typeof _seshu)
+console.log(typeof tv)//string
+console.log(typeof stv)//number
+console.log(typeof emp)//undifend
+console.log(typeof $ram)//number
+console.log(typeof _seshu)//number
